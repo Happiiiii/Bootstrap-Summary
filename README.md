@@ -9,5 +9,5 @@ Summary about all the topics in Bootstrap
 >  - If you find it easy please make full use of it.
 >  - And if you find anything wrong or typos then please give issues.
 
-# Found interesting then share or clone my repo.
+# Found something interesting about Bootstrap then share and notify me
 # `Advance Thanks to all.`
